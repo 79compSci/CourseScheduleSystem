@@ -1,8 +1,8 @@
 # Course Schedule System – CSC 223 Project Report
 
-**Student:** [Enter your name]  
+**Student:** Eric Dowdell  
 **IDE:** PyCharm  
-**GitHub repository:** [Add your repository URL]  
+**GitHub repository:** https://github.com/79compSci/CourseScheduleSystem  
 **Dataset:** Instructor-provided `courses.csv`
 
 ## 1. Project purpose
